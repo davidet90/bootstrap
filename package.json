@@ -4,8 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "helloworld": "npm bootstrap -v"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "css-minify": "^2.0.0",
+    "dart-sass": "^1.25.0",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
