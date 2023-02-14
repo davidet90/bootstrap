@@ -1,0 +1,15 @@
+body {
+  background-color: red;
+}
+
+.my-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fullscreen {
+  display: block;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyIsIm1haW4uYnVpbHQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0kscUJBQUE7QUNDSjs7QURDQTtFQUNJLGFBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0FDRUo7O0FEQ0E7RUFDSSxjQUFBO0FDRUoiLCJmaWxlIjoibWFpbi5idWlsdC5jc3MifQ== */

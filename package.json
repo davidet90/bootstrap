@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "helloworld": "npm bootstrap -v"
+    "sass": "dart-sass assets/main.scss:assets/main.built.css",
+    "postcss": "npx postcss -r assets/*.css --use autoprefixer"
   },
   "author": "",
   "license": "ISC",
